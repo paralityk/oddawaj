@@ -1,0 +1,2 @@
+# oddawaj
+Oddawaj albo spadaj
